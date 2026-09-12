@@ -1,0 +1,10 @@
+
+
+a=[1,2,3]
+b=a 
+result=b is a #is membership operator
+print("result of ",b, "is not",a,"is :",result)
+
+a=[1,2,3]
+result=b is a # is membership operator
+print("result of",b, "is not ",a,"is :",result)
